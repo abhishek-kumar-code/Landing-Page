@@ -4,7 +4,7 @@
 The aim of the project is to work on a real-world scenario of manipulating the DOM. Besides diplaying how javascript can improve 
 the usability of an otherwise static site the objective here is to append dynamically added data to the DOM. 
 
-#### *This project uses JavaScipt in a way that allows us to modify the DOM, and thus the website without editing the HTML of the page*
+#### *This project uses JavaScipt in a way that allows us to modify the DOM, and thus the website without editing the HTML of the page.*
 
 ## Component Build
 To understand the virtual DOM we dynamically build the navigation menu for a multi-section landing page. 
