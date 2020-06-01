@@ -15,6 +15,7 @@ clicks on a navigation item, the item scrolls smoothly to the appropriate sectio
 * Build the navigation menu dynamically using JavaScript
 * Add functionality to distinguish the section in view
 * Add the functionality to scroll to sections
+<br>
 
 ![](images/landingpage.JPG)
 
